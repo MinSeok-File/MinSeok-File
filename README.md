@@ -2,7 +2,8 @@
 
 ## 📚 Education
 - **SSAFY** - 삼성 청년 SW 아카데미 9기 (2023.01.04 ~ ) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
-- 
+
+
 - 👋 Hi, I’m @MinSeok-File
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
