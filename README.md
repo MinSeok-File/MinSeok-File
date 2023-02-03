@@ -17,3 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 📚 Education
 - **SSAFY** - 삼성 청년 SW 아카데미 9기 (2023.01.04 ~ ) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=MinSeok-File)](https://solved.ac/MinSeok-File)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=MinSeok-File&theme=warm)
