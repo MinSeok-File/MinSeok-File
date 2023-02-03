@@ -20,5 +20,5 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=loveload)](https://solved.ac/loveload)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=loveload-File&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=loveload&theme=warm)
 
