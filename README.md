@@ -20,6 +20,5 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=loveload)](https://solved.ac/loveload)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=loveload&theme=warm)
 <br>
 ![snake gif](https://github.com/talli0505/talli0505/blob/output/github-contribution-grid-snake.svg)   
