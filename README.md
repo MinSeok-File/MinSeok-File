@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinSeok-File&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# HI 
+# 안녕하세요!
 
 - 👋 Hi, I’m @MinSeok-File
 - 👀 I’m interested in ...
@@ -20,5 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=loveload)](https://solved.ac/loveload)
+
 <br>
+
 ![snake gif](https://github.com/talli0505/talli0505/blob/output/github-contribution-grid-snake.svg)   
